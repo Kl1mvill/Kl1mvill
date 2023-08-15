@@ -6,4 +6,4 @@
 
 - 💞️ I only know Python and Pascal, but I would be interested in programming useful programs that simplify people's lives or games (just not shooters, please 🙏 ).
 
-- 📫 If you want to contact us, write in a telegram - @Kl1mvill
+- 📫 If you want to contact us, write in a telegram - @Klimvill
