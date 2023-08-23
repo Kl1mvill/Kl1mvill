@@ -31,7 +31,7 @@ me.say_welcome()
 ###
 
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/933804796729626361/26FCFBE1CBDB39798CE5AAFEBECA0B8AFF83DF0E/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"  />
+  <img height="500" src="https://steamuserimages-a.akamaihd.net/ugc/933804796729626361/26FCFBE1CBDB39798CE5AAFEBECA0B8AFF83DF0E/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"  />
 </div>
 
 ###
