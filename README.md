@@ -16,7 +16,7 @@ class Programmer:
 me = Programmer()
 me.say_welcome()
 ```
-<img align="right" height="170" src="https://steamuserimages-a.akamaihd.net/ugc/933804796729626361/26FCFBE1CBDB39798CE5AAFEBECA0B8AFF83DF0E/?imw=512&amp"  />
+<img align="right" height="170" src="[https://steamuserimages-a.akamaihd.net/ugc/933804796729626361/26FCFBE1CBDB39798CE5AAFEBECA0B8AFF83DF0E/?imw=512&amp](https://steamuserimages-a.akamaihd.net/ugc/933804796729626361/26FCFBE1CBDB39798CE5AAFEBECA0B8AFF83DF0E/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)"  />
 
 ###
 
