@@ -1,9 +1,14 @@
-- 👋 Hello, my name is Klim, I am a 9th grader from Ulyanovsk.
-
-- 👀 I am interested in many fields of science. Fan of anime and vocaloids. And I also understand some fandoms :3
-
-- 🌱 Now I am studying at school No. 57. I learned to program in the It Cube.
-
-- 💞️ I only know Python and Pascal, but I would be interested in programming useful programs that simplify people's lives or games (just not shooters, please 🙏 ).
-
-- 📫 If you want to contact us, write in a telegram - @Klimvill
+```py
+class Programmer:
+    def __init__(self):
+        self.full_name = "Petr Rudichev"
+        self.age = 14
+        self.role = "Learner"
+        self.code = ["Python", "Java"]
+    
+    def say_welcome(self):
+        print("Thank you for stopping by, I hope you like some of my work.")
+    
+me = Programmer()
+me.say_welcome()
+```
