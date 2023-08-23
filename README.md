@@ -5,9 +5,13 @@ class Programmer:
         self.age = 14
         self.role = "Learner"
         self.code = ["Python", "Java"]
-    
+        
     def say_welcome(self):
         print("Thank you for stopping by, I hope you like some of my work.")
+    
+    def hobbies(self):
+        return ["game", "books", "anime", "guitar", "music (I love vocaloids ❤️)"]
+
     
 me = Programmer()
 me.say_welcome()
