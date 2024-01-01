@@ -2,7 +2,7 @@
 class Programmer:
     def __init__(self):
         self.full_name = "Petr Rudichev"
-        self.age = 14
+        self.age = 15
         self.role = "Learner"
         self.code = ["Python", "Java"]
         
