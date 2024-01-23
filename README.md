@@ -10,7 +10,7 @@ class Programmer:
         print("Thank you for stopping by, I hope you like some of my work.")
     
     def hobbies(self):
-        return ["anime", "game", "books", "guitar", "music (I love vocaloids ❤️)"]
+        return ["anime", "game", "books", "guitar"]
 
     
 me = Programmer()
